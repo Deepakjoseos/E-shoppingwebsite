@@ -1,7 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { useParams } from "react-router";
 import Skeleton from "react-loading-skeleton";
-import Carosel from "../components/Carosel";
 
 const Product = () => {
   const { id } = useParams();
