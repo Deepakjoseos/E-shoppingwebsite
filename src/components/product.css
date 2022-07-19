@@ -1,0 +1,13 @@
+.card-img-top:hover {
+  transform: scale(1.1);
+  cursor: pointer;
+  transition: 0.5s;
+}
+.col-md-6:hover {
+  transform: scale(1.1);
+  cursor: pointer;
+  transition: 0.8s;
+}
+p .text-white {
+  text-decoration: none;
+}
