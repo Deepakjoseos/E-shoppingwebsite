@@ -45,7 +45,7 @@ export default function Navbar() {
   return (
     <nav className="navbar navbar-expand-lg navbar-mainbg">
       <NavLink className="navbar-brand fw-bold fs-4 navbar-logo" to="/" exact>
-        TREND Collections
+        TRENDS Collections
       </NavLink>
 
       <button
@@ -74,7 +74,7 @@ export default function Navbar() {
 
           <li className="nav-item active">
             <NavLink className="nav-link" to="/" exact>
-              <i className="fas fa-tachometer-alt"></i>Home
+              <i className="fa-solid fa-house"></i>Home
             </NavLink>
           </li>
 
