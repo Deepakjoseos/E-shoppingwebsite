@@ -48,27 +48,27 @@ const Footer = () => {
             </h5>
             <p>
               <a href="#" className="text-white">
-                <i class="fa-brands fa-facebook mr-3"></i>FaceBook
+                <i class="fa fa-facebook mr-3"></i>FaceBook
               </a>
             </p>
             <p>
               <a href="#" className="text-white">
-                <i class="fa-brands fa-twitter mr-3"></i>Twitter
+                <i class="fa fa-twitter mr-3"></i>Twitter
               </a>
             </p>
             <p>
               <a href="#" className="text-white">
-                <i class="fa-brands fa-instagram mr-3"></i>Instagram
+                <i class="fa fa-instagram mr-3"></i>Instagram
               </a>
             </p>
             <p>
               <a href="#" className="text-white">
-                <i class="fa-brands fa-linkedin mr-3"></i>Linkedin
+                <i class="fa fa-linkedin mr-3"></i>Linkedin
               </a>
             </p>
             <p>
               <a href="#" className="text-white">
-                <i class="fa-brands fa-youtube mr-3"></i>Youtube
+                <i class="fa fa-youtube mr-3"></i>Youtube
               </a>
             </p>
           </div>
@@ -77,16 +77,16 @@ const Footer = () => {
               Contact us
             </h5>
             <p>
-              <i class="fas fa-home mr-3"></i>Trends,New York
+              <i class="fa fa-home mr-3"></i>Trends,New Delhi
             </p>
             <p>
-              <i class="fas fa-envelope mr-3"></i> Trends@info.co.in
+              <i class="fa fa-envelope mr-3"></i> Trends@info.co.in
             </p>
             <p>
-              <i class="fas fa-phone mr-3"></i>+123456789
+              <i class="fa fa-phone mr-3"></i>+123456789
             </p>
             <p>
-              <i class="fas fa-print mr-3"></i>+085578888
+              <i class="fa fa-print mr-3"></i>+085578888
             </p>
           </div>
           <div>

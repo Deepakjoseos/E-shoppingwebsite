@@ -62,7 +62,7 @@ export default function Navbar() {
         aria-expanded="false"
         aria-label="Toggle navigation"
       >
-        <i className="fas fa-bars text-white"></i>
+        <i className="fa fa-bars text-white"></i>
       </button>
 
       <div className="collapse navbar-collapse" id="navbarSupportedContent">
@@ -74,13 +74,13 @@ export default function Navbar() {
 
           <li className="nav-item active">
             <NavLink className="nav-link" to="/" exact>
-              <i className="fa-solid fa-house"></i>Home
+              <i className="fa fa-home"></i>Home
             </NavLink>
           </li>
 
           <li className="nav-item">
             <NavLink className="nav-link" to="/products" exact>
-              <i class="fa-brands fa-shopify"></i>Products
+              <i class="fa fa-shopping-cart me-1"></i>Products
             </NavLink>
           </li>
 
