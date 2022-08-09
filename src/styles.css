@@ -1,5 +1,18 @@
+:root {
+  --color-primary: #56ccf2;
+  --container-width-lg: 75%;
+  --container-width-md: 86%;
+  --container-width-sm: 90%;
+}
+
+body {
+  background: var(--color-primary);
+}
+html {
+  scroll-behavior: smooth;
+}
+
 .App {
   font-family: sans-serif;
   text-align: center;
-  background-color: rgb(207, 232, 240);
 }
