@@ -3,7 +3,7 @@
   cursor: pointer;
   transition: 0.5s;
 }
-.col-md-6:hover {
+.col-md-6 img:hover {
   transform: scale(1.1);
   cursor: pointer;
   transition: 0.8s;
